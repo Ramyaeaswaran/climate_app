@@ -18,3 +18,10 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+     - assets/weather1.jpeg
+     - assets/weatherpage.jpeg
+  fonts:
+    - family: SparanMB
+      fonts:
+        - asset: assets/SpartanMB-Black.otf
